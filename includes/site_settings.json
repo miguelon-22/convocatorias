@@ -1,0 +1,8 @@
+{
+    "site_name": "startraining",
+    "maintenance_mode": "off",
+    "contact_email": "admin@edu.pe",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": "587",
+    "enable_ai_analysis": "on"
+}
