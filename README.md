@@ -38,7 +38,3 @@ Asimismo, el sistema implementa una **arquitectura de tres capas**, que permite 
 
 Finalmente, el sistema busca centralizar las convocatorias de prácticas en una sola plataforma digital, mejorando la accesibilidad para los estudiantes y optimizando los procesos de selección para las empresas.
 
----
-
-**Ayacucho — Perú**
-**2026**
